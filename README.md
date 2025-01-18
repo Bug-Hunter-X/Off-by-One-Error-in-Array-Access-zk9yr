@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java and its solution. The `bug.java` file contains the erroneous code, while `bugSolution.java` presents the corrected version. The error occurs due to an incorrect loop condition, causing an attempt to access an array element outside its defined bounds. This can lead to an `ArrayIndexOutOfBoundsException`.
